@@ -19,7 +19,7 @@ You can use pip like this.
 ```
 pip install PyPokerEngine
 ```
-This library supports Python 2 (2.7) and Python3 (3.5).
+This library supports Python 2 (2.7) and Python3 (3.x).
 
 ## Create first AI
 In this section, we create simple AI which always declares *CALL* action.  
